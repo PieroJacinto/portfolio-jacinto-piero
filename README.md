@@ -1,1 +1,2 @@
-# portfolio-jacinto-piero
+# PierosPortfolio
+Portfolio con información personal y trabajos realizados
